@@ -1,0 +1,7 @@
+In this folder there are two projects igui_demo_glfw which is 
+the demo project using glfw only as backend. To build it just go 
+to src directory and run "make".
+
+The second projects uses vulkan as backend, to run that 
+delete CMakeCache.txt if present and run "cmake ." if cmake
+runs succesfully then run "make";

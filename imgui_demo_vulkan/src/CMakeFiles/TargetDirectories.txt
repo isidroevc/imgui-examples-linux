@@ -1,0 +1,9 @@
+/home/elnya/cpp/imgu_examples/imgui_demo_vulkan/src/CMakeFiles/example_glfw_vulkan.dir
+/home/elnya/cpp/imgu_examples/imgui_demo_vulkan/src/CMakeFiles/edit_cache.dir
+/home/elnya/cpp/imgu_examples/imgui_demo_vulkan/src/CMakeFiles/rebuild_cache.dir
+/home/elnya/cpp/imgu_examples/imgui_demo_vulkan/src/binary_dir/CMakeFiles/edit_cache.dir
+/home/elnya/cpp/imgu_examples/imgui_demo_vulkan/src/binary_dir/CMakeFiles/rebuild_cache.dir
+/home/elnya/cpp/imgu_examples/imgui_demo_vulkan/src/binary_dir/src/CMakeFiles/glfw.dir
+/home/elnya/cpp/imgu_examples/imgui_demo_vulkan/src/binary_dir/src/CMakeFiles/update_mappings.dir
+/home/elnya/cpp/imgu_examples/imgui_demo_vulkan/src/binary_dir/src/CMakeFiles/edit_cache.dir
+/home/elnya/cpp/imgu_examples/imgui_demo_vulkan/src/binary_dir/src/CMakeFiles/rebuild_cache.dir
